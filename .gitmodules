@@ -1,0 +1,3 @@
+[submodule "plugins/gridster.js"]
+	path = plugins/gridster.js
+	url = git://github.com/ducksboard/gridster.js.git
